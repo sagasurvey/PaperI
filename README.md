@@ -6,6 +6,6 @@
 This repo contains notebooks to generate plots in SAGA Paper I (Geha et al, [2017](https://doi.org/10.3847/1538-4357/aa8626)), 
 and is licensed under MIT license. 
 
-If you use these notebooks for your research, please consider citing Geha et al, [2017](https://doi.org/10.3847/1538-4357/aa8626)). 
+If you use these notebooks for your research, please consider citing Geha et al, ([2017](https://doi.org/10.3847/1538-4357/aa8626)). 
 
 Visit [sagasurvey.org](https://sagasurvey.org) for the most up-to-date SAGA results! 
